@@ -21,7 +21,7 @@ except:
 result = pyfiglet.figlet_format("R e q u i e m", font = "cosmic" )
 print(f'''{C}{G}{result}{C}''')
 p = input(f'{C}[{G}!{C}] Digite a Senha: ')
-if p == '7a3Campos':
+if p == 'free':
     print(f'{C}[{G}*{C}] Acesso Liberado');pass
 else:
     print(f'{C}[{R}*{C}] Senha Incorreta');time.sleep(2);restart()
@@ -79,7 +79,7 @@ while(Sair == True):
                          `/sy+.   yNNNNNNdo-
                              -oyo/+mNmy/.
                                 `-:::
-{C}\n{C}{G}Coded By:{C} Kiny\n{C}[{R}*{C}] Ative a permissão de baixa segurança e utilize um email por ataque(recomendação).''');link();op = input(f"\n{C}{Y}O'que deseja fazer?{C}\n{C}[{G}1{C}] Desativar Numero\n{C}[{G}2{C}] Retirar do Contador\n{C}[{G}3{C}] Retirar Banimento\n{C}[{G}4{C}] Banir Numero{C}\n{C}[{R}0{C}] Sair\n{C}[{G}Digite a opção{C}]: ")
+{C}\n{C}{G}Coded By:{C} GOD KILLER\n{C}[{R}*{C}] Ative a permissão de baixa segurança e utilize um email por ataque(recomendação).''');link();op = input(f"\n{C}{Y}O'que deseja fazer?{C}\n{C}[{G}1{C}] Desativar Numero\n{C}[{G}2{C}] Retirar do Contador\n{C}[{G}3{C}] Retirar Banimento\n{C}[{G}4{C}] Banir Numero{C}\n{C}[{R}0{C}] Sair\n{C}[{G}Digite a opção{C}]: ")
 	if op == '1':
 		email = input(f'{C}[{Y}Gmail{C}]: ');password = input(f'{C}[{Y}Senha (Não se preocupe, não temos acesso à sua senha){C}]: ');numero = input(f'{C}[{Y}Numero do Alvo (ex: 55 21 9****){C}]: ')
 		message = """\
